@@ -161,14 +161,14 @@ input[type="range"]::-webkit-slider-thumb {
 @media screen and (min-width: 768px) {
   body {
     background-image: url(/images/bg-desktop.png);
-    background-size: 100% 60%;
+    background-size: 100% 50%;
     background-repeat: no-repeat;
     background-position: bottom left;
   }
   .container {
     margin: auto;
     max-width: 93rem;
-    height: 50%;
+    height: 61%;
     display: flex;
     align-items: flex-end;
   }
